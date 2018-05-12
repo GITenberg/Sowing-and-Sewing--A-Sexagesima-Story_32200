@@ -1,0 +1,33 @@
+_repo: Sowing-and-Sewing--A-Sexagesima-Story_32200
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32200-h/images/cover-back.jpg
+creator:
+  author:
+    agent_name: Yonge, Charlotte M. (Charlotte Mary)
+    aliases:
+    - Yonge, Charlotte Mary
+    - Yonge, C. M. (Charlotte Mary)
+    birthdate: 1823
+    deathdate: 1901
+    gutenberg_agent_id: '945'
+    url: http://www.gutenberg.org/2009/agents/945
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
+description: ''
+gutenberg_issued: '2010-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32200'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Villages -- Fiction'
+- !lcsh 'Young women -- Conduct of life -- Fiction'
+- !lcsh 'Church work -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Christian life -- Fiction'
+title: 'Sowing and Sewing: A Sexagesima Story'
+url: http://www.gutenberg.org/ebooks/32200
